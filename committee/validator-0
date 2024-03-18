@@ -1,0 +1,17 @@
+---
+info:
+  name: validator-0
+  account-address: "0x6649966e1b2cb688d3d5acac48a34ddbc0d49eb6f43f4ea89894f15b8d6414b3"
+  protocol-key: oX7lnebFAWI6e/hztFazoU9v+Srwj+nTMsqVgnnnnmmvpBzFqaMURhq4upymLuuwEN4Y0JX2tgU5bFA3eDXrlqNX9gt09trd+9y4NGJRggsIUgOVdfGWQ+Mpz33zQ+Ps
+  worker-key: 6P99CPY79Hm3m+FawYxNZI5C8Yi6xYtlqsy+zwt3Ooo=
+  network-key: hrkr+RHzLSDfIeHVhQa0819oyO9+fMg5gRk8VD5Yex8=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /ip4/0.0.0.0/tcp/8080/http
+  p2p-address: /ip4/0.0.0.0/udp/8084/http
+  narwhal-primary-address: /ip4/0.0.0.0/udp/8081/http
+  narwhal-worker-address: /ip4/0.0.0.0/udp/8082/http
+  description: Local Sui validator 0
+  image-url: "https://github.com/MystenLabs/sui/blob/main/docs/site/static/img/logo.svg"
+  project-url: "https://github.com/roman1e2f5p8s/sui-local-net-demo"
+proof_of_possession: mbvR20TFRuHJTNJrz34fpJdO7ktlwXQLWyp+bODD3EF4UAGHl64dYiMBGyLArrKh
